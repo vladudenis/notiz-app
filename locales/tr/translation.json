@@ -1,0 +1,20 @@
+{
+  "app-title": "Not Uygulaması",
+  "logout-button": " Çıkış Yap",
+  "placeholder-title": " *Başlık...",
+  "placeholder-note": " *Not...",
+  "add-note-button": " Not ekle",
+  "delete-all-button": " Tüm Notları Kaldır",
+  "new-note": " Yeni Not",
+  "note-exists": " Bu başlığa sahip bir not zaten var!",
+  "title-bounds": " Başlık 30 karakterden uzun olamaz!",
+  "note-bounds": " Not 500 karakterden uzun olamaz!",
+  "signup-title": " Şimdi üye Ol",
+  "signup-button": " Üye olmak",
+  "signup-fail": " Kullanıcı adı önceden alınmış!",
+  "login-title": " Şimdi giriş yap",
+  "username-placeholder": " *Kullanıcı adı girin...",
+  "password-placeholder": " *Parolanı Gir...",
+  "login-button": " Giriş yapmak",
+  "login-fail": " Kullanıcı adı veya şifre geçersiz!"
+}

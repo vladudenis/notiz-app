@@ -1,0 +1,16 @@
+<div class="login-page">
+    <h1>{{logintitle}}</h1>
+
+    <div class="login-div">
+        <form action="/login" method="post" class="login-form">
+            <input class="username-input" type="text" name="username" id="username" placeholder="{{username}}" required />
+            <input class="password-input" type="password" name="password" id="password" placeholder="{{password}}" required />
+            <button class="login-btn" type="submit">{{login}}</button>
+            <a href="/signup">{{signup}}</a>
+        </form>
+
+        {{#if message}}
+            <span><h3>{{ message }}</h3></span>
+        {{/if}}
+    </div>
+</div>

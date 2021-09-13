@@ -1,0 +1,225 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffcc;
+  padding: 1rem;
+  height: 5rem;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar > .del-all {
+  margin-top: 3rem;
+}
+
+.app a {
+  margin: 0 5px;
+}
+
+.del-all-btn:hover {
+  background-color: #da011b;
+  color: white;
+}
+
+.body {
+  display: flex;
+}
+
+.notes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style-type: none;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  width: 1500px;
+}
+
+.notes .note:nth-child(even) {
+  background-color: #cfc;
+}
+
+.notes .note:nth-child(3n) {
+  background-color: #ccf;
+}
+
+.notes .note:nth-child(5n) {
+  background-color: #8a2be2;
+}
+
+.note-title {
+  text-decoration: underline;
+}
+
+.note {
+  background-color: #ffc;
+  padding: 1em;
+  margin: 10px;
+  color: #000;
+  max-width: 500px;
+  max-height: 800px;
+  box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
+  transition: transform 0.15s linear;
+}
+
+.note:hover, .note:focus {
+  box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.7);
+  transform: scale(1.25);
+  position: relative;
+  z-index: 5;
+}
+
+.note-form p {
+  word-wrap: break-word;
+}
+
+.note-del-btn {
+  background-color: inherit;
+  border: none;
+  font-size: 25px;
+  width: 25px;
+  height: 25px;
+}
+
+.note-del-btn:hover {
+  color: red;
+}
+
+.note-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  margin-top: 3rem;
+}
+
+.home-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-form * {
+  margin: 3px 0;
+}
+
+.del-all-btn, .new-note-btn {
+  width: 200px;
+  height: 40px;
+  padding: 2px;
+}
+
+.new-note-btn:hover {
+  background-color: seagreen;
+  color: white;
+}
+
+.title-input {
+  width: 400px;
+  height: 40px;
+  padding: 2px;
+}
+
+.body-input {
+  width: 400px;
+  height: 200px;
+  padding: 2px;
+  max-height: 300px;
+  max-width: 500px;
+}
+
+.login-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.login-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-form * {
+  margin: 3px 0;
+}
+
+.username-input, .password-input, .login-btn {
+  width: 200px;
+  height: 25px;
+  padding: 2px;
+}
+
+.signup-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.signup-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup-form * {
+  margin: 3px 0;
+}
+
+.username-input, .password-input, .signup-btn {
+  width: 200px;
+  height: 25px;
+  padding: 2px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.lng-navbar {
+  height: 2vh;
+  background-color: #ffffcc;
+  padding: 1rem;
+}
+
+body {
+  height: 90vh;
+}
+
+button {
+  border-radius: 1rem;
+  border: none;
+}
+
+/*# sourceMappingURL=main.css.map */

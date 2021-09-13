@@ -1,0 +1,23 @@
+@use 'home';
+@use 'login';
+@use 'signup';
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.lng-navbar{
+  height: 2vh;
+  background-color: #ffffcc;
+  padding: 1rem;
+}
+
+body{
+  height: 90vh;
+}
+
+button{
+  border-radius: 1rem;
+  border: none;
+}

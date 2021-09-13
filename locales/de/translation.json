@@ -1,0 +1,20 @@
+{
+  "app-title": "Notiz App",
+  "logout-button": "Ausloggen",
+  "placeholder-title": "*Titel...",
+  "placeholder-note": "*Notiz...",
+  "add-note-button": "Notiz Hinzufügen",
+  "delete-all-button": "Alle Notizen Löschen",
+  "new-note": "Neue Notiz",
+  "note-exists": "Eine Notiz mit diesem Titel ist bereits vorhanden!",
+  "title-bounds": "Titel darf nicht länger als 30 Buchstaben sein!",
+  "note-bounds": "Notiz darf nicht länger als 500 Buchstaben sein!",
+  "signup-title": "Jetzt Registrieren",
+  "signup-button": "Registrieren",
+  "signup-fail": "Benutzername existiert bereits!",
+  "login-title": "Jetzt Einloggen",
+  "username-placeholder": "*Benutzername eingeben...",
+  "password-placeholder": "*Kennwort eingeben...",
+  "login-button": "Einloggen",
+  "login-fail": "Benutzername oder Passwort sind falsch!"
+}

@@ -1,0 +1,20 @@
+{
+  "app-title": "Noter L'application",
+  "logout-button": "Se Déconnecter",
+  "placeholder-title": "*Titre...",
+  "placeholder-note": "*Note...",
+  "add-note-button": "Ajouter Une Note",
+  "delete-all-button": "Supprimer Toutes Les Notes",
+  "new-note": "Nouvelle Note",
+  "note-exists": "Une note avec ce titre existe déjà !",
+  "title-bounds": "Le titre ne peut pas dépasser 30 caractères !",
+  "note-bounds": "La note ne peut pas comporter plus de 500 caractères !",
+  "signup-title": "S'inscrire Maintenant",
+  "signup-button": "S'inscrire",
+  "signup-fail": "Nom d'utilisateur déjà pris!",
+  "login-title": "Connecte-toi maintenant",
+  "username-placeholder": "*Introduisez votre nom d'utilisateur...",
+  "password-placeholder": "*Entrer le mot de passe ...",
+  "login-button": "Connexion",
+  "login-fail": "Nom d'utilisateur ou mot de passe invalide !"
+}

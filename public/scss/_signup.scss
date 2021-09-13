@@ -1,0 +1,29 @@
+.signup-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.signup-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.signup-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup-form *{
+  margin: 3px 0;
+}
+
+.username-input, .password-input, .signup-btn{
+  width: 200px;
+  height: 25px;
+  padding: 2px;
+}

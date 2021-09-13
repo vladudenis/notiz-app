@@ -1,0 +1,20 @@
+{
+  "app-title": "Note App",
+  "logout-button": "Log Out",
+  "placeholder-title": "*Title...",
+  "placeholder-note": "*Note...",
+  "add-note-button": "Add Note",
+  "delete-all-button": "Remove All Notes",
+  "new-note": "New Note",
+  "note-exists": "A note with this title already exists!",
+  "title-bounds": "Title cannot be longer than 30 characters!",
+  "note-bounds": "Note cannot be longer than 500 characters!",
+  "signup-title": "Sign Up Now",
+  "signup-button": "Sign Up",
+  "signup-fail": "Username already taken!",
+  "login-title": "Log In Now",
+  "username-placeholder": "*Enter username...",
+  "password-placeholder": "*Enter password...",
+  "login-button": "Log In",
+  "login-fail": "Username or Password invalid!"
+}

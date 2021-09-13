@@ -1,0 +1,20 @@
+{
+  "app-title": "Nota App",
+  "logout-button": "Sair",
+  "placeholder-title": "*Title...",
+  "placeholder-note": "*Nota...",
+  "add-note-button": "Adicionar nota",
+  "delete-all-button": "Remover todas as notas",
+  "new-note": "Nova nota",
+  "note-exists": "Já existe uma nota com este título!",
+  "title-bounds": "O título não pode ser maior do que 30 caracteres!",
+  "note-bounds": "A nota não pode ter mais de 500 caracteres!",
+  "signup-title": "Cadastre-se agora",
+  "signup-button": "Cadastre-se",
+  "signup-fail": "Nome de usuário já tomado!",
+  "login-title": "Entrar agora",
+  "username-placeholder": "*Entrar nome de usuário...",
+  "password-placeholder": "*Introduzir senha...",
+  "login-button": "Entrar",
+  "login-fail": "Nome de usuário ou senha inválidos!"
+}

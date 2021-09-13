@@ -1,0 +1,20 @@
+{
+  "app-title": "ノートアプリ",
+  "logout-button": "ログアウト",
+  "placeholder-title": "*タイトル...",
+  "placeholder-note": "*ノート...",
+  "add-note-button": "ノートの追加",
+  "delete-all-button": "すべてのノートを削除",
+  "new-note": "新規ノート",
+  "note-exists": "このタイトルのノートはすでに存在しています。",
+  "title-bounds": "タイトルは30文字以上にはできません。",
+  "note-bounds": "ノートは500文字以上にはできません。",
+  "signup-title": "今すぐ登録する",
+  "signup-button": "登録する",
+  "signup-fail": "ユーザー名はすでに使用されています。",
+  "login-title": "今すぐログイン",
+  "username-placeholder": "*ユーザー名を入力してください...",
+  "password-placeholder": "*パスワードを入力してください...",
+  "login-button": "ログインする",
+  "login-fail": "ユーザー名またはパスワードが無効です。"
+}

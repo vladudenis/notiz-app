@@ -1,0 +1,20 @@
+{
+  "app-title": "Aplikacja Note",
+  "logout-button": "Log Out",
+  "placeholder-title": "*Tytuł...",
+  "placeholder-note": "*Note...",
+  "add-note-button": "Dodaj notatkę",
+  "delete-all-button": "Usuń wszystkie notatki",
+  "new-note": "Nowa notatka",
+  "note-exists": "Notatka o takim tytule już istnieje!",
+  "title-bounds": "Tytuł nie może być dłuższy niż 30 znaków!",
+  "note-bounds": "Notatka nie może być dłuższa niż 500 znaków!",
+  "signup-title": "Zarejestruj się teraz",
+  "signup-button": "Zarejestruj się",
+  "signup-fail": "Nazwa użytkownika jest już zajęta!",
+  "login-title": "Zaloguj się teraz",
+  "username-placeholder": "*Wprowadź nazwę użytkownika...",
+  "password-placeholder": "*Wprowadź hasło...",
+  "login-button": "Zaloguj się",
+  "login-fail": "Nazwa użytkownika lub hasło są nieprawidłowe!"
+}

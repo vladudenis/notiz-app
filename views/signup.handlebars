@@ -1,0 +1,16 @@
+<div class="signup-page">
+    <h1>{{signuptitle}}</h1>
+
+    <div class="signup-div">
+        <form action="/signup" method="post" class="signup-form">
+            <input class="username-input" type="text" name="username" placeholder="*Benutzername eingeben..." required />
+            <input class="password-input" type="test" name="password" placeholder="*Kennwort eingeben..." required />
+            <button class="signup-btn" type="submit">{{signup}}</button>
+            <a href="/login">{{login}}</a>
+        </form>
+
+        {{#if message}}
+            <span><h3>{{message}}</h3></span>
+        {{/if}}
+    </div>
+</div>
