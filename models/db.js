@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const UserSchema = require('./user');
 const NoteSchema = require('./note');
 
-mongoose.connect('mongodb+srv://vladudenis:alingras09@cluster0.d0plx.mongodb.net/Cluster0?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://vladudenis:<pw>@cluster0.d0plx.mongodb.net/Cluster0?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
